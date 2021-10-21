@@ -1,9 +1,6 @@
 MONTDIJKSTRA ALGORITHM
 
-AUThOR: ROBERTO PORTILLO TORRES
-
-Implementación personal del algoritmo de Dijkstra para encontrar el camino 
-más corto entre dos nodos de un grafo.
+AUTHOR: ROBERTO PORTILLO TORRES
 
 My C++ implementation for Dijkstra's algorithm for finding shotest path
 between two nodes on a graph using an auxiliar heap.
