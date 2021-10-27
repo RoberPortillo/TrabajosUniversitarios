@@ -1,11 +1,6 @@
-Hola!!
+Hi!!
 
-Mi nombre es Roberto Portillo y hago este repositorio cuando estoy a punto de terminar
-mi grado universitario en Ingeniería Informática para dejar aquí una selección de los 
-trabajos de los que estoy mas orgulloso.
+This are some of the proyects and algorithms I developed 
+while I've been in college studying computer science. 
 
-Espero que os resulten interesantes y de utilidad.
-
-Me podéis contactar a robportillotorres@gmail.com para cualquier pregunta.
-
-Un saludo!!!
+I hope you find them interesting and useful.
